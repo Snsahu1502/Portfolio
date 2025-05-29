@@ -1,6 +1,6 @@
 import React from "react";
 import avatarImg from "../../assets/shiva img (2).png";
-import TextChange from "../textchanger";
+import TextChange from "../TextChanger";
 import { IoCallSharp } from "react-icons/io5";
 import { IoDownloadOutline } from "react-icons/io5"; // Icon for download
 
