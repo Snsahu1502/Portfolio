@@ -1,7 +1,7 @@
 import React from "react";
 import ProjectCard from "./ProjectCard";
 import firstImg from "../../assets/wanderlust.png";
-import secondImg from "../../assets/ems.png";
+import secondImg from "../../assets/authentication.png";
 import thirdImg from "../../assets/neurobot-img.png";
 import fourthImg from "../../assets/seoroofer.png"
 
@@ -18,10 +18,10 @@ const Project = () => {
           bannerImg = {firstImg}
         />
         <ProjectCard
-          title="Employee Management System"
-          main="A React-based employee management interface featuring CRUD operations, state management, and real-world API integration."
+          title="Sign Up Login Authentication"
+          main="Implemented a React (TypeScript) authentication system with Firebase for email/password and Google OAuth, utilizing Tailwind CSS for responsive UI and real-time validation. Protected routes ensure secure access and persistent user sessions."
           demoLink="https://employee-system-demo.com"
-          codeLink="https://github.com/Snsahu1502/employee-management"
+          codeLink="https://github.com/Snsahu1502/Authentication"
           bannerImg = {secondImg}
         />
         <ProjectCard

@@ -19,7 +19,6 @@ const Home = () => {
           my skills. Excited about the opportunity to contribute to real-world
           projects and grow as a developer.
         </p>
-
         {/* Contact Button */}
         <a
           href="tel:8085264961"
